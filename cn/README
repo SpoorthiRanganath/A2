@@ -1,0 +1,6 @@
+Please execute the client program first.
+GBN protocol has been implemented for the goven program on the server side.
+
+Challenges Faced
+we were not able to implement the md5 checksum because we found a lot of errors when md5 checksum and gbn protocol was implemented together.
+The problem is easy to do it in diiferent parts, but implemeting all these into one was difficult.
